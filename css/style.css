@@ -83,7 +83,6 @@ nav ul li {
   margin: 1em;
 }
 .main-container {
-  max-width: 1440px;
   padding: 2em 3em;
   box-shadow: 10px 10px 5px #888888;
   overflow: auto;
@@ -106,8 +105,7 @@ main article img.hero {
   justify-content: space-between;
 }
 .blockGroup div {
-  width: 45%;
-
+  width: 40%;
   margin: 0 auto;
 }
 .blockGroup div img {
